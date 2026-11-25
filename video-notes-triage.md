@@ -21,6 +21,14 @@ Date: 2026-11-25
 | tech stack I use to make money as a solo developer | **Task:** Write down Jarvis's stack decision once (language, hosting, DB, auth) and stop re-deciding it. |
 | STOP building TODO APPS / Claude prompt to build amazing coding projects / ChatGPT prompt for staff-level projects | **Takeaway:** Jarvis *is* the impressive portfolio project. Give it a clean README, an architecture diagram and a demo video. |
 
+### The 3 YouTube links (titles from YouTube oEmbed; transcripts blocked by YouTube's bot check)
+
+| Link | Title / creator | Idea / task |
+|---|---|---|
+| watch?v=OUbEeJOxjyw | *Give Me 13 Minutes and I'll Make You Disgustingly Good With Claude* (Duncan Rogoff) | **Keep / watch once.** The most relevant video in the whole list for Jarvis. Expect overlap with the Claude Code hacks task above. |
+| shorts/z0BHjqFYwWg | *How 137 AI Agents Run an Entire Company* (ReStructure AI) | **Idea:** multi-agent design for Jarvis, meaning specialized sub-agents (email, calendar, research) under one orchestrator. Start with one agent and split only when a single prompt gets unwieldy. The "137 agents" framing is hype. |
+| shorts/S7eDSJz3erA | *Coding Project To Get Into FAANG* (Erik Cupsa) | Career content; see section 4. Safe to delete. |
+
 ## 2. PC & mobile use optimization
 
 | Source title | Idea / task |
